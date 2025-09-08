@@ -68,3 +68,18 @@
             object-fit: cover;
             display: block;
         }
+
+        .destino-info {
+            padding: 20px;
+        }
+        
+        .destino-info p {
+            margin-bottom: 15px;
+        }
+        
+        .ubicacion {
+            color: #03dac6;
+            font-style: italic;
+        }
+
+        
